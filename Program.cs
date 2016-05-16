@@ -112,8 +112,8 @@ namespace DiscoveryParser
                 await context.OpenAsync(Url);
                 await context.Active.QuerySelector<IHtmlFormElement>("form").SubmitAsync(new
                 {
-                    email = "zoobr@mail.ru",
-                    password = "761983"
+                    email = "",
+                    password = ""
                 });
             }
 
