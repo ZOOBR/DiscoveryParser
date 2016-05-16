@@ -1,0 +1,8 @@
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\bin\Debug\DiscoveryParser.exe.config
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\obj\Debug\DiscoveryParser.csprojResolveAssemblyReference.cache
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\bin\Debug\DiscoveryParser.exe
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\bin\Debug\DiscoveryParser.pdb
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\bin\Debug\AngleSharp.dll
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\bin\Debug\AngleSharp.xml
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\obj\Debug\DiscoveryParser.exe
+c:\users\rider\documents\visual studio 2015\Projects\DiscoveryParser\DiscoveryParser\obj\Debug\DiscoveryParser.pdb
